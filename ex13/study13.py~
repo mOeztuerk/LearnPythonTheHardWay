@@ -1,0 +1,7 @@
+from sys import argv
+
+script, eins, zwei = argv
+
+print("scriptname:", script)
+print("1argument:", eins)
+print("2argument:", zwei)
